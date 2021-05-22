@@ -1,2 +1,4 @@
 # debug
-debug nodejs
+found
+import function syntaksys
+install package
